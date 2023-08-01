@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Net.NetworkInformation;
-using UnorderedList.UnorderedList;
-using UnorderedList.UnorderedListQueue;
-using UnorderedList.UnorderedListStack;
+using UnorderList.UnorderList;
+using UnorderList.UnorderListQueue;
+using UnorderList.UnorderListStack;
 
-namespace UnorderedList
+namespace UnorderList
 {
     class Program
     {
